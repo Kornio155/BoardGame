@@ -3,9 +3,15 @@
 /workspace.xml
 # Rider ignored files
 /projectSettingsUpdater.xml
+<<<<<<< HEAD
 /modules.xml
 /contentModel.xml
 /.idea.BoardGame.iml
+=======
+/.idea.BoardGame.iml
+/contentModel.xml
+/modules.xml
+>>>>>>> 502e696 (test)
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files

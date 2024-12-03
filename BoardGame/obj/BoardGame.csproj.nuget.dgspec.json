@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/home/szymonh/RiderProjects/BoardGame/BoardGame/BoardGame.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/szymonh/.nuget/NuGet/NuGet.Config"
+=======
+    "/home/kornelj/RiderProjects/BoardGame/BoardGame/BoardGame.csproj": {}
+  },
+  "projects": {
+    "/home/kornelj/RiderProjects/BoardGame/BoardGame/BoardGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kornelj/RiderProjects/BoardGame/BoardGame/BoardGame.csproj",
+        "projectName": "BoardGame",
+        "projectPath": "/home/kornelj/RiderProjects/BoardGame/BoardGame/BoardGame.csproj",
+        "packagesPath": "/home/kornelj/.nuget/packages/",
+        "outputPath": "/home/kornelj/RiderProjects/BoardGame/BoardGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kornelj/.nuget/NuGet/NuGet.Config"
+>>>>>>> 502e696 (test)
         ],
         "originalTargetFrameworks": [
           "net8.0"

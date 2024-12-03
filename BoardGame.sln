@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame", "BoardGame\BoardGame.csproj", "{D0334A70-5EF9-4380-BEE7-82CB90605D19}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame", "BoardGame\BoardGame.csproj", "{48781EB1-4C0B-45C5-A744-416A05E97456}"
+>>>>>>> 502e696 (test)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +12,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{D0334A70-5EF9-4380-BEE7-82CB90605D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0334A70-5EF9-4380-BEE7-82CB90605D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0334A70-5EF9-4380-BEE7-82CB90605D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0334A70-5EF9-4380-BEE7-82CB90605D19}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{48781EB1-4C0B-45C5-A744-416A05E97456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48781EB1-4C0B-45C5-A744-416A05E97456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48781EB1-4C0B-45C5-A744-416A05E97456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48781EB1-4C0B-45C5-A744-416A05E97456}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 502e696 (test)
 	EndGlobalSection
 EndGlobal
